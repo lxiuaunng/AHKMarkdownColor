@@ -23,7 +23,7 @@ IfWinActive, [ typora.exe]
     !c:: addFontColor("cornflowerblue")
     
     ; alt+s 天蓝色
-    s:: addFontColor("skyblue")
+    !s:: addFontColor("skyblue")
 
     ; alt+c 青色
     !c:: addFontColor("cyan")
