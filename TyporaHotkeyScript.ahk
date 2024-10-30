@@ -25,9 +25,6 @@ IfWinActive, [ typora.exe]
     ; alt+s 天蓝色
     !s:: addFontColor("skyblue")
 
-    ; alt+c 青色
-    !c:: addFontColor("cyan")
-
     ; alt+p 紫色
     !p:: addFontColor("purple")
 
