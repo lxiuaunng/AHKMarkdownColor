@@ -4,7 +4,6 @@
 - alt+g 灰色
 - alt+c 浅蓝色
 - alt+s 天蓝色
-- alt+c 青色
 - alt+p 紫色
 - alt+t 透明度为0
 
