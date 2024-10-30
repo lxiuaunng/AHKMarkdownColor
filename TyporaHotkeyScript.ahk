@@ -19,9 +19,9 @@
     ; alt+g 灰色
     !g:: addFontColor("grey")
 
-    ; c+b 浅蓝色
+    ; alt+b 浅蓝色
     !b:: addFontColor("cornflowerblue")
-    ; s+b 天蓝色
+    ; alt+b 天蓝色
     ; !b:: addFontColor("skyblue")
 
     ; alt+c 青色
