@@ -1,3 +1,7 @@
+> [!warning]
+>
+> 注意：使用热键的时候不能提释放前缀键（`Alt`)，否则会出现bug：`Alt`不会被释放，接下来键盘的所有键都会变成以`Alt`为前缀键的热键，直到再次单击`Alt`才会释放。
+
 - alt+r 红色
 - alt+o 橙色
 - alt+y 黄色
@@ -11,7 +15,7 @@
 
 详情请参考[Autohotkey中文文档](https://autohotkey.top/)
 
-  ## 自定义组合键
+## 自定义组合键
 
 通常快捷键组合由可选的前缀/修饰键(Ctrl, Alt, Shift 和 LWin/RWin) 和单个后缀键组成。
 
