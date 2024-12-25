@@ -5,7 +5,7 @@ tags:
   - typora
   - obsidian
   - AutoHotkey
-create: 2024-12-25
+create: 2024-10-31
 update: 2024-12-25
 publish: true
 remotely: https://github.com/lxiuaunng/AHKMarkdownColor
